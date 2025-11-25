@@ -9,7 +9,6 @@
 🐾 2nd-year student in Information Security  
 🌊 Actively looking for internship / job opportunities  
 🏆 Hackathon achievements: 2× 1st place  
-🐧 Linux user | 🐋 macOS user
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸
 
@@ -25,6 +24,15 @@
 
 ---
 
+## Tools i use
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=apple,arch,linux,go,python,cpp,discord,git,github,docker,"/>
+  </a>
+</p>
+
+---
 ## GitHub Stats
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Narotan&theme=radical)
