@@ -2,13 +2,9 @@
 
 [![](https://img.shields.io/badge/-@Narotan-%23181717?style=flat-square&logo=github)](https://github.com/Narotan)
 
-
-𝑰 ❤️ 𝑩𝒂𝒄𝒌-𝒆𝒏𝒅 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓𝒊𝒏𝒈!
-
 🐙 Backend developer passionate about Go  
 🐾 2nd-year student in Information Security  
-🌊 Actively looking for internship / job opportunities  
-🏆 Hackathon achievements: 2× 1st place  
+🏆 actively participate in CTFs and hackathons 
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸
 
